@@ -23,11 +23,14 @@ This project explores several computer vision and machine learning techniques:
 
 ---
 
-## 💾 Datasets
+## 💾 Dataset
 
-The models were trained and evaluated on datasets containing images of healthy, bleached, and dead corals.
-* **2-Class Dataset**: Contains 923 images of healthy (438) and bleached (485) corals.
-* **3-Class Dataset**: Contains healthy (738), bleached (678), and dead (151) coral images.
+The data for this project is not included in the repository due to its size. You can download it from the original Kaggle source:
+
+* **BHD Corals (3-class)**: [https://www.kaggle.com/datasets/sonainjamil/bhd-corals](https://www.kaggle.com/datasets/sonainjamil/bhd-corals) 
+* **Healthy and Bleached Corals (2-class)**: [https://www.kaggle.com/datasets/vencerlanz09/healthy-and-bleached-corals-image-classification](https://www.kaggle.com/datasets/vencerlanz09/healthy-and-bleached-corals-image-classification) 
+
+After downloading, place the dataset into a `data/` folder in the project's root directory. This `data/` folder is listed in the `.gitignore` file and will not be tracked by Git.
 
 ---
 
