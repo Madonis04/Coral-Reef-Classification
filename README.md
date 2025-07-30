@@ -1,8 +1,6 @@
 # Coral Health Classification using Deep Learning
 
-[cite_start]An automated machine learning system to classify and estimate the lifespan of coral species for coral restoration initiatives using images collected by Autonomous Underwater Vehicles (AUVs)[cite: 195].
-
-![SVM Diagram](https://i.imgur.com/K3bU2rV.png)
+An automated machine learning system to classify and estimate the lifespan of coral species for coral restoration initiatives using images collected by Autonomous Underwater Vehicles (AUVs).
 
 ---
 
