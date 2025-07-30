@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Datasets - Do not track!
+data/
+*.csv
